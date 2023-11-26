@@ -1,0 +1,11 @@
+*{
+    font-family: BrandonTextWeb-Medium, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    overscroll-behavior: auto;
+    touch-action: pan-x pan-y;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
